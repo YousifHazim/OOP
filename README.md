@@ -2,7 +2,7 @@
 
 ### Summary of all projects presented in the Java language using the OOP 
 
-### using the the four principles of object-oriented programming abstraction, inheritance, encapsulation, and polymorphism.
+### using the four principles of object-oriented programming : abstraction, inheritance, encapsulation, and polymorphism.
 ## 2D Line
 
 The Program have classes that represents a 2D-Line.
@@ -19,7 +19,7 @@ The class represents a 2D Vector and encapsulate both X-Component and Y-Componen
 
 The Program application representing a bank account.
 
-The class encapsulate an account number , an account holder name , a balance (float), flag indicating whether the account is closed or open.
+The class encapsulate an account number , an account holder name , a balance , flag indicating whether the account is closed or open.
 
 ## Canvas
 
