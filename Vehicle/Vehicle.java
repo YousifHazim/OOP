@@ -8,6 +8,10 @@ public abstract class Vehicle {
         this.numberOfWheels = numberOfWheels;
     }
 
+    public int getNumberOfWheels() {
+        return numberOfWheels;
+    }
+
     public abstract void drive();
 
 }
