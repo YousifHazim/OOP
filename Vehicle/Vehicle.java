@@ -3,6 +3,10 @@ public abstract class Vehicle {
     private float speed;
     private int numberOfWheels;
 
+    public Vehicle() {
+
+    }
+
     public Vehicle(float speed, int numberOfWheels) {
         this.speed = speed;
         this.numberOfWheels = numberOfWheels;
