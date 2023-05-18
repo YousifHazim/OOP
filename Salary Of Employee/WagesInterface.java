@@ -1,7 +1,7 @@
 public interface WagesInterface {
 
-    double calculateSalary();
+    public double calculateSalary();
 
-    void displayInfo();
+    public void displayInfo();
 
 }
